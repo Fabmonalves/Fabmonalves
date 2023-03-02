@@ -7,7 +7,7 @@
 
 #### Principais Projetos
 
-##### Projeto n° 1 
+##### Conversor de Lucros: https://github.com/Fabmonalves/Calculadoras/tree/main/tibia
 ##### Projeto n° 2
 ##### Projeto n° 3
 
