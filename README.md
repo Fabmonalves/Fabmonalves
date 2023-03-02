@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🙋‍♂️ Olá, me chamo Fabricio, Programador Python
 
-<!--
-**Fabmonalves/Fabmonalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Aqui está algumas informaçãoes importantes
 
-Here are some ideas to get you started:
+##### link do meu Linkedin: https://www.linkedin.com/in/fabricio-monte/
+#### Vamos nos conectar? 🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Principais Projetos
+
+##### Projeto n° 1 
+##### Projeto n° 2
+##### Projeto n° 3
+
