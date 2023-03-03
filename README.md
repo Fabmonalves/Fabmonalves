@@ -7,7 +7,7 @@
 
 #### Principais Projetos
 
+##### calculadora de Investimento: https://github.com/Fabmonalves/Calculadoras/tree/main/calculadora_investimento
 ##### Conversor de Lucros TCs para Reais: https://github.com/Fabmonalves/Calculadoras/tree/main/tibia_conversor
-##### Projeto n° 2
 ##### Projeto n° 3
 
